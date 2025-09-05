@@ -131,11 +131,16 @@ export default defineConfig({
     outline: { 
       level: [1,6], // 显示2-4级标题
     //level: 'deep', // 显示2-6级标题
-      label: '当前页面大纲' // 文字显示
+      label: '当前页大纲' // 文字显示
     },
 
     //社交链接
     socialLinks: [
       { icon: 'github', link: 'https://github.com/C-4-C-4/xcloudx-wiki' }
     ],
+    footer: {
+      message: '<a href="https://icp.govs.xin/id.php?keyword=20252025" target="_blank">信ICP备20252025号</a>',
+      copyright: '<a href="https://www.govs.cc/id.php?keyword=20252025" target="_blank">嘣ICP备20252025号</a>',
+    }
+  }
 })
