@@ -17,7 +17,7 @@ import { DocBox, DocBoxCube, DocLinks, DocPill } from '@theojs/lumen'
 //视频组件引用
 import { DocVideoLink } from '@theojs/lumen'
 
-import './style.css'
+//import './style.css'
 import "./blur.css";
 import confetti from "./Confetti.vue";//引用纸屑组件
 import './var.css' //自定义组件 CSS 可以通过覆盖根级别的 CSS 变量来自定义默认主题的 CSS
