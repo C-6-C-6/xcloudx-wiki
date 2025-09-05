@@ -138,5 +138,9 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/C-4-C-4/xcloudx-wiki' }
     ],
+
+    footer: {
+      coppyrignt: "Copyrightt@ 2025 XcloudX"
+    },
   }
 })
