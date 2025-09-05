@@ -139,7 +139,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/C-4-C-4/xcloudx-wiki' }
     ],
     footer: {
-      copyright: 'Copyright@ 2025 Albert XcoudX',
+      copyright: 'Copyright © 2025 XcoudX',
     }
   }
 })
