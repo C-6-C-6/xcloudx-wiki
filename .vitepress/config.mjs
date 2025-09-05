@@ -140,8 +140,7 @@ export default defineConfig({
     ],
 
 //页脚
-  footer: { 
-    message: 'Released under the MIT License.', 
+  footer: {  
     copyright: 'Copyright © 2019-2023 present XcloudX',
   }，
 })
