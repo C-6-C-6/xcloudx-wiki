@@ -139,8 +139,9 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/C-4-C-4/xcloudx-wiki' }
     ],
 
-    footer: {
-      coppyrignt: "Copyrightt@ 2025 XcloudX"
-    },
-  }
+//页脚
+  footer: { 
+    message: 'Released under the MIT License.', 
+    copyright: 'Copyright © 2019-2023 present XcloudX',
+  }，
 })
