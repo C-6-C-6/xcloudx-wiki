@@ -29,6 +29,7 @@ wiki目前还在陆续完善中...
 
 > [!WARNING]
 **服务器版本为：<Badge type="tip" text="1.20.1" /><br>
+点击下面链接下载整合包<br>
 https://github.com/C-4-C-4/XcloudX-MC/releases/download/1.20.1/1.20.1.1.0.0.zip<br>
 请勿使用其它版本，避免出现无法进入游戏、报错等...<br>
 支持离线、第三方登录、正版玩家**
