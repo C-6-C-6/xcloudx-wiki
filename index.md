@@ -8,7 +8,7 @@ hero:
   tagline: Welcome to the XianYun Wiki
 
   image:
-    src: /wiki-logo.webp
+    src: /A25E2DD400C66237DFB76A79E73D2CD9.png
     alt: 闲云Wiki
   actions:
     - theme: brand
