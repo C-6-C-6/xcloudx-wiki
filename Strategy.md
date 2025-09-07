@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2025-01-26T15:42:52.825Z
 ---
 
-![](/wiki-logo.webp)
+![](/A25E2DD400C66237DFB76A79E73D2CD9.png)
 
 
 <center><font face="courier New" color=	#20B2AA size=6>Welcome to the Xianyun wiki</font></center>
