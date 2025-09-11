@@ -30,7 +30,7 @@ features:
   - icon:
       src: \img\拓展玩法\星露谷农作物系统\wheat_je2_be2.webp
     title: 星露谷农作物
-    details: 不一样的种植方式，让你玩的更开心
+    details: 体验不一样的种植方式，让你玩的更开心
   - icon:
       src: \img\拓展玩法\职业系统\135px-plains_villager_base.webp
     title: 职业系统
@@ -38,11 +38,11 @@ features:
   - icon:
       src: \img\拓展玩法\钓鱼系统\150px-fishing_rod_je2_be2.webp
     title: 钓鱼系统
-    details: 体验一下星露谷原汁原味的钓鱼方式
+    details: 星露谷原汁原味的钓鱼方式
   - icon:
       src: \img\拓展玩法\宠物系统\img_202501114620_129x150.png
     title: 宠物系统
-    details: 养一只属于你的哈基咪吧！
+    details: 养一只属于你的哈基咪吧
 
 
 #    editLink: false
