@@ -38,7 +38,7 @@ features:
   - icon:
       src: \img\拓展玩法\钓鱼系统\150px-fishing_rod_je2_be2.webp
     title: 钓鱼系统
-    details: 星露谷原汁原味的钓鱼方式
+    details: 星露谷原汁原味的钓鱼玩法
   - icon:
       src: \img\拓展玩法\宠物系统\img_202501114620_129x150.png
     title: 宠物系统
