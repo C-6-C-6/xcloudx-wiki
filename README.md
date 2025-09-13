@@ -28,3 +28,6 @@
 
 > [!CAUTION]
 > **在未经许可的情况下，禁止复制当前仓库内容、二次修改等...**
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/C-4-C-4/xcloudx-wiki.svg?variant=adaptive)](https://starchart.cc/C-4-C-4/xcloudx-wiki)
